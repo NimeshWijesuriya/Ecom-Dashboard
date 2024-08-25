@@ -1,1 +1,1 @@
-![Model Diagram](dashboard.png)
+![Model Diagram](ecom dashboard.png)
